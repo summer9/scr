@@ -40,7 +40,7 @@
         <td>1</td>
         <td>John</td>
         <td><?php echo $g1 ?></td>
-    
+        
     </tr>
     <tr>
         <td>2</td>
