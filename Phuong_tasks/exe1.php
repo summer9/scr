@@ -7,7 +7,7 @@
     <title>Exercise 1: Getting Started with PHP - Phuong</title>
 </head>
 <body>
-    
+<?php include "header.php"?>
 <h3> 3.1 Write PHP code to output the following message:</h3>
     <?php
         // Use backslashes to escape double quotes or use single quotes
@@ -60,6 +60,7 @@
 <h3>Take a screenshot that confirms your development environment setup and include it as an image in the "ex1.php" file.</h3>
     <img src="images/24.png" alt="web development environment">
 
+    <?php include "footer.php"?>
 </body>
 </html>
 

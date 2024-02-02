@@ -14,13 +14,18 @@
     </head>
     <body>
 
-
-
-
-
+    
 
 
     <footer>
+
+    <?php
+    $filename = basename($_SERVER['PHP_SELF']);
+    $Latest_time = filemtime($filename);
+    $Latest_date = date("F j, Y, g:i a", $Latest_time);
+    echo "Exe3 was last modified: " . $Latest_date;
+    ?>
+
                 <div class="row my-4 mt-4">
                 <div class="col-md-4">
                     <ul class="social-icons">

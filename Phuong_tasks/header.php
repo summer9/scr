@@ -11,7 +11,7 @@
             <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
             <link href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;1,400;1,600&family=Montserrat:ital,wght@0,300;0,400;0,700;1,500&display=swap" rel="stylesheet">
         
-            <title>PHP - This is PHP page</title>
+            <title>This is PHP page</title>
     </head>
     <body>
 
@@ -21,7 +21,7 @@
 
             <!-- NAV BAR -->
             <nav class="navbar row">
-                <h2 class="col-md-4 logo">Eastern Kitchen</h2>
+                <h2 class="col-md-4 logo">Web Programming</h2>
                 <div class="col-md-8">
 
                     <ul>
@@ -36,6 +36,12 @@
                         </li>
                         <li>
                             <a class="nav-link" href="exe4.php">Exe4</a>
+                        </li>
+                        <li>
+                            <a class="nav-link" href="exe5.php">Exe5</a>
+                        </li>
+                        <li>
+                            <a class="nav-link" href="exe6.php">Exe6</a>
                         </li>
                     </ul>
                 </div>
