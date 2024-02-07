@@ -29,7 +29,7 @@
                             <a class="nav-link" href="exe1.php">Exe1</a>
                         </li>
                         <li>
-                            <a class="nav-link" href="exe2.php">Exe2</
+                            <a class="nav-link" href="exe2.php">Exe2</a>
                         </li>
                         <li>
                             <a class="nav-link" href="exe3.php">Exe3</a>
@@ -38,10 +38,16 @@
                             <a class="nav-link" href="exe4.php">Exe4</a>
                         </li>
                         <li>
-                            <a class="nav-link" href="exe5.php">Exe5</a>
+                            <a class="nav-link" href="Readme.md">Exe5</a>
                         </li>
                         <li>
-                            <a class="nav-link" href="exe6.php">Exe6</a>
+                            <a class="nav-link" href="exe7.php">Exe7</a>
+                        </li>
+                        <li>
+                            <a class="nav-link" href="read.php">Exe7.1</a>
+                        </li>
+                        <li>
+                            <a class="nav-link" href="updatesingle.php">Exe7.1</a>
                         </li>
                     </ul>
                 </div>
